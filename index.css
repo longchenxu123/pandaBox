@@ -41,9 +41,13 @@ header {
     color: #fff;
     display: flex;
     align-items: center;
+	justify-content: space-between;
     /* position: sticky; */
     /* top: 0; */
 
+}
+header p {
+	color: #f40;
 }
 header img {
     width: 3vw;
